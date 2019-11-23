@@ -346,6 +346,17 @@ textarea[disabled] {
 input:-webkit-autofill {
   -webkit-box-shadow: 0 0 0 1000px white inset;
 }
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .checkbox {
   display: inline-block;
   height: 3rem;
